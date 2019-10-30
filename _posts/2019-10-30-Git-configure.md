@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "我的Git配置备忘 "
-subtitle:   "针对常用的git设置和操作，添加备忘录。持续更新..."
-date:       2019年10月30日19点39分
+layout: post
+title: "我的Git配置备忘 "
+subtitle: "针对常用的git设置和操作，添加备忘录。持续更新..."
+# date: 2019年10月30日19点39分
 author:     "Allan Cao"
 header-img: "img/post-bg-2015.jpg"
 tags:
