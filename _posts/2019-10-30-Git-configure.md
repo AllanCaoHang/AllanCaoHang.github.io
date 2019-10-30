@@ -12,7 +12,7 @@ tags:
 # Git备忘
 ## Git 连接到[github或码云](https://gitee.com/PHDWu/CASESM3D/tree/stable_master/)   
 
-1. Git 全局设置
+### 1. **Git 全局设置**
 
    `git config --global user.name "NAME" `
 
@@ -20,13 +20,13 @@ tags:
     `git config --global user.email "XXX@gmail.com"`
 
 
-2. 创建 git 仓库:
+### 2. **创建 git 仓库:**
 
     `mkdir myrepo`
     `cd myrepo`
     `git init`
 
-3. 本地branch关联远程branch：
+### 3. **本地branch关联远程branch：**
 
     `git commit -m "first commit"`
     `git remote add origin https://gitee.com/XXX/YYY.git`
@@ -34,7 +34,7 @@ tags:
 
     `git fetch`  
 
-4. 其他命令
+### 4. **其他命令**
 
     `git add .`
 
@@ -68,7 +68,7 @@ tags:
 
     删除本地testing分支
 
-5. **注意事项**
+### 5. **注意事项：**
 
     **commit之前先pull，避免冲突。**
 
@@ -84,5 +84,5 @@ tags:
     
 
 
-> ## [相关Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+> ## [相关Git教程参考](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 ​     

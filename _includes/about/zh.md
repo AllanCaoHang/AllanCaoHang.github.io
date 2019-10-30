@@ -1,7 +1,6 @@
 > Every teardrop's a waterfall.
 
-Cao Hang, PhD candidate of computer science in ICT, CAS.
-
+Cao Hang，目前于中科院计算所修博士学位，研究方向为：并行计算模型、大规模并行算法及优化
 
 ##### To be added
 
