@@ -1,11 +1,11 @@
 # Site settings
 title: Allan Blog
 SEOTitle: Allan Cao的博客 | Allan Cao's Blog
-header-img: img/home-bg-ch.jpg
+header-img: img/bg-night.jpg
 email: hangcao.cs@gmail.com
 description: "空白"
 keyword: "none"
-url: "https://caohang.me"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
