@@ -1,4 +1,4 @@
---------
+---
 layout:     post
 title:      "我的Git配置备忘 "
 subtitle:   "针对常用的git设置和操作，添加备忘录。持续更新..."
@@ -7,7 +7,7 @@ author:     "Allan Cao"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Memo
---------
+---
 
 # Git备忘
 ## Git 连接到[github或码云](https://gitee.com/PHDWu/CASESM3D/tree/stable_master/)   
@@ -21,11 +21,13 @@ tags:
 
 
 2. 创建 git 仓库:
+
     `mkdir myrepo`
     `cd myrepo`
     `git init`
 
 3. 本地branch关联远程branch：
+
     `git commit -m "first commit"`
     `git remote add origin https://gitee.com/XXX/YYY.git`
     `git push -u origin master`(选定的分支)
@@ -66,8 +68,7 @@ tags:
 
     删除本地testing分支
 
-    
-    **5. 注意事项**
+5. **注意事项**
 
     **commit之前先pull，避免冲突。**
 
