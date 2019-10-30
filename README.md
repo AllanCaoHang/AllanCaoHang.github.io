@@ -1,4 +1,4 @@
-# AllanCaoHang.github.io forked from HuxBlog Boilerplate
+# HuxBlog Boilerplate
 
 ##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
 
