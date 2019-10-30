@@ -13,10 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     AllanCao
-zhihu_username:     AllanCao
-github_username:    AllanCao
+weibo_username:     
+zhihu_username:     allan-77
+github_username:    AllanCaoHang
 twitter_username:   AllanCao
+Gitee_username:   Cao_Hang
 #facebook_username: AllanCao
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -85,7 +86,7 @@ sidebar-avatar: /img/Me.png      # use absolute URL, seeing it's used in both `/
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
