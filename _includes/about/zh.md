@@ -1,6 +1,8 @@
 > Every teardrop's a waterfall.
 
-Cao Hang，目前于中科院计算所修博士学位，研究方向为：并行计算模型、大规模并行算法及优化
+**Cao Hang**，中科院计算所博士在读。
+
+**研究方向**为：并行计算模型、大规模并行算法及优化
 
 ##### To be added
 
